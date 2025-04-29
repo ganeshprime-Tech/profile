@@ -49,7 +49,7 @@ const Home = () => {
 
         {/* Button (Centered with Better Padding) */}
         <div className="bg-[#fe5617] px-6 py-3 rounded-2xl font-bold text-white inline-block">
-          <a href="public\Ganeshkumar.pdf">Download CV</a>
+          <a href="\Ganeshkumar.pdf" download>Download CV</a>
         </div>
       </div>
 
