@@ -14,7 +14,12 @@ const certifications = [
     image: "certificate.png",
     link: "https://github.com/ganeshprime-Tech/Certificate/blob/main/LAHTP-LEGACY.png", // <-- Add your actual link here
   },
-  
+  {
+    title: "SOC Analyst",
+    issuer: "Letsdefend",
+    image: "240688b0-4fd9-4de9-ad68-425858c65fe7.png",
+    link: "https://app.letsdefend.io/certificate/show/27982818-47b6-43b5-a95e-7fd620654430", // <-- Add your actual link here
+  },
   {
     title: "Cybersecurity Threat Hunting for SOC Analysts",
     issuer: "Udemy",
@@ -39,6 +44,7 @@ const certifications = [
     image: "UC-74b73cde-7a27-4a4d-9beb-05ff76c3c899.jpg",
     link: "https://www.udemy.com/certificate/UC-74b73cde-7a27-4a4d-9beb-05ff76c3c899/", // <-- Add your actual link here
   },
+  
 ];
 
 // Component
